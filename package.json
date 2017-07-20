@@ -2,9 +2,9 @@
   "name": "books-of-the-bible",
   "version": "1.0.0",
   "description": "An ordered list of the names of the books of the bible, with common abbreviations",
-  "main": "index.js",
+  "main": "index.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "repository": {
     "type": "git",
