@@ -1,6 +1,6 @@
 # books-of-the-bible
 
-An ordered list of the names of the books of the bible, with common abbreviations.
+An ordered list of the names of the canonical books of the bible, with common abbreviations.
 
 The full data is in [index.json](./index.json).
 
