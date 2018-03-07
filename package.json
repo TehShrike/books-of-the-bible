@@ -4,7 +4,7 @@
   "description": "An ordered list of the names of the books of the bible, with common abbreviations",
   "main": "index.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
