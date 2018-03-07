@@ -52,7 +52,8 @@
 		"aliases": [
 			"1 Sam",
 			"1st Sam",
-			"1st Samuel"
+			"1st Samuel",
+			"First Samuel"
 		]
 	},
 	{
@@ -60,7 +61,8 @@
 		"aliases": [
 			"2 Sam",
 			"2nd Sam",
-			"2nd Samuel"
+			"2nd Samuel",
+			"Second Samuel"
 		]
 	},
 	{
@@ -68,7 +70,8 @@
 		"aliases": [
 			"1 Kgs",
 			"1st Kgs",
-			"1st Kings"
+			"1st Kings",
+			"First Kings"
 		]
 	},
 	{
@@ -76,7 +79,8 @@
 		"aliases": [
 			"2 Kgs",
 			"2nd Kgs",
-			"2nd Kings"
+			"2nd Kings",
+			"Second Kings"
 		]
 	},
 	{
@@ -84,7 +88,8 @@
 		"aliases": [
 			"1 Chr",
 			"1st Chr",
-			"1st Chronicles"
+			"1st Chronicles",
+			"First Chronicles"
 		]
 	},
 	{
@@ -92,7 +97,8 @@
 		"aliases": [
 			"2 Chr",
 			"2nd Chr",
-			"2nd Chronicles"
+			"2nd Chronicles",
+			"Second Chronicles"
 		]
 	},
 	{
@@ -278,7 +284,8 @@
 		"aliases": [
 			"1 Cor",
 			"1st Cor",
-			"1st Corinthians"
+			"1st Corinthians",
+			"First Corinthians"
 		]
 	},
 	{
@@ -286,7 +293,8 @@
 		"aliases": [
 			"2 Cor",
 			"2nd Cor",
-			"2nd Corinthians"
+			"2nd Corinthians",
+			"Second Corinthians"
 		]
 	},
 	{
@@ -318,7 +326,8 @@
 		"aliases": [
 			"1 Thess",
 			"1st Thess",
-			"1st Thessalonians"
+			"1st Thessalonians",
+			"First Thessalonians"
 		]
 	},
 	{
@@ -326,7 +335,8 @@
 		"aliases": [
 			"2 Thess",
 			"2nd Thess",
-			"2nd Thessalonians"
+			"2nd Thessalonians",
+			"Second Thessalonians"
 		]
 	},
 	{
@@ -334,7 +344,8 @@
 		"aliases": [
 			"1 Tim",
 			"1st Tim",
-			"1st Timothy"
+			"1st Timothy",
+			"First Timothy"
 		]
 	},
 	{
@@ -342,7 +353,8 @@
 		"aliases": [
 			"2 Tim",
 			"2nd Tim",
-			"2nd Timothy"
+			"2nd Timothy",
+			"Second Timothy"
 		]
 	},
 	{
@@ -372,7 +384,8 @@
 		"aliases": [
 			"1 Pet",
 			"1st Pet",
-			"1st Peter"
+			"1st Peter",
+			"First Peter"
 		]
 	},
 	{
@@ -380,25 +393,29 @@
 		"aliases": [
 			"2 Pet",
 			"2nd Pet",
-			"2nd Peter"
+			"2nd Peter",
+			"Second Peter"
 		]
 	},
 	{
 		"name": "1 John",
 		"aliases": [
-			"1st John"
+			"1st John",
+			"First John"
 		]
 	},
 	{
 		"name": "2 John",
 		"aliases": [
-			"2nd John"
+			"2nd John",
+			"Second John"
 		]
 	},
 	{
 		"name": "3 John",
 		"aliases": [
-			"3rd John"
+			"3rd John",
+			"Third John"
 		]
 	},
 	{
