@@ -1,431 +1,342 @@
 [
 	{
-		"name": "Genesis",
-		"aliases": [
-			"Gen"
-		]
+	  "name": "Genesis",
+	  "aliases": ["Gen"],
+	  "order": 1
 	},
 	{
-		"name": "Exodus",
-		"aliases": [
-			"Exod",
-			"Ex",
-			"Exo"
-		]
+	  "name": "Exodus",
+	  "aliases": ["Exod", "Ex", "Exo"],
+	  "order": 2
 	},
 	{
-		"name": "Leviticus",
-		"aliases": [
-			"Lev"
-		]
+	  "name": "Leviticus",
+	  "aliases": ["Lev"],
+	  "order": 3
 	},
 	{
-		"name": "Numbers",
-		"aliases": [
-			"Num"
-		]
+	  "name": "Numbers",
+	  "aliases": ["Num"],
+	  "order": 4
 	},
 	{
-		"name": "Deuteronomy",
-		"aliases": [
-			"Deut"
-		]
+	  "name": "Deuteronomy",
+	  "aliases": ["Deut"],
+	  "order": 5
 	},
 	{
-		"name": "Joshua",
-		"aliases": [
-			"Josh"
-		]
+	  "name": "Joshua",
+	  "aliases": ["Josh"],
+	  "order": 6
 	},
 	{
-		"name": "Judges",
-		"aliases": [
-			"Judg"
-		]
+	  "name": "Judges",
+	  "aliases": ["Judg"],
+	  "order": 7
 	},
 	{
-		"name": "Ruth",
-		"aliases": []
+	  "name": "Ruth",
+	  "aliases": [],
+	  "order": 8
 	},
 	{
-		"name": "1 Samuel",
-		"aliases": [
-			"1 Sam",
-			"1st Sam",
-			"1st Samuel",
-			"First Samuel"
-		]
+	  "name": "1 Samuel",
+	  "aliases": ["1 Sam", "1st Sam", "1st Samuel", "First Samuel"],
+	  "order": 9
 	},
 	{
-		"name": "2 Samuel",
-		"aliases": [
-			"2 Sam",
-			"2nd Sam",
-			"2nd Samuel",
-			"Second Samuel"
-		]
+	  "name": "2 Samuel",
+	  "aliases": ["2 Sam", "2nd Sam", "2nd Samuel", "Second Samuel"],
+	  "order": 10
 	},
 	{
-		"name": "1 Kings",
-		"aliases": [
-			"1 Kgs",
-			"1st Kgs",
-			"1st Kings",
-			"First Kings"
-		]
+	  "name": "1 Kings",
+	  "aliases": ["1 Kgs", "1st Kgs", "1st Kings", "First Kings"],
+	  "order": 11
 	},
 	{
-		"name": "2 Kings",
-		"aliases": [
-			"2 Kgs",
-			"2nd Kgs",
-			"2nd Kings",
-			"Second Kings"
-		]
+	  "name": "2 Kings",
+	  "aliases": ["2 Kgs", "2nd Kgs", "2nd Kings", "Second Kings"],
+	  "order": 12
 	},
 	{
-		"name": "1 Chronicles",
-		"aliases": [
-			"1 Chr",
-			"1st Chr",
-			"1st Chronicles",
-			"First Chronicles"
-		]
+	  "name": "1 Chronicles",
+	  "aliases": ["1 Chr", "1st Chr", "1st Chronicles", "First Chronicles"],
+	  "order": 13
 	},
 	{
-		"name": "2 Chronicles",
-		"aliases": [
-			"2 Chr",
-			"2nd Chr",
-			"2nd Chronicles",
-			"Second Chronicles"
-		]
+	  "name": "2 Chronicles",
+	  "aliases": ["2 Chr", "2nd Chr", "2nd Chronicles", "Second Chronicles"],
+	  "order": 14
 	},
 	{
-		"name": "Ezra",
-		"aliases": [
-			"Ezra"
-		]
+	  "name": "Ezra",
+	  "aliases": ["Ezra"],
+	  "order": 15
 	},
 	{
-		"name": "Nehemiah",
-		"aliases": [
-			"Neh"
-		]
+	  "name": "Nehemiah",
+	  "aliases": ["Neh"],
+	  "order": 16
 	},
 	{
-		"name": "Esther",
-		"aliases": [
-			"Esth",
-			"Est"
-		]
+	  "name": "Esther",
+	  "aliases": ["Esth", "Est"],
+	  "order": 17
 	},
 	{
-		"name": "Job",
-		"aliases": []
+	  "name": "Job",
+	  "aliases": [],
+	  "order": 18
 	},
 	{
-		"name": "Psalms",
-		"aliases": [
-			"Ps",
-			"Psalm"
-		]
+	  "name": "Psalms",
+	  "aliases": ["Ps", "Psalm"],
+	  "order": 19
 	},
 	{
-		"name": "Proverbs",
-		"aliases": [
-			"Prov",
-			"Pro"
-		]
+	  "name": "Proverbs",
+	  "aliases": ["Prov", "Pro"],
+	  "order": 20
 	},
 	{
-		"name": "Ecclesiastes",
-		"aliases": [
-			"Eccl",
-			"Ecc"
-		]
+	  "name": "Ecclesiastes",
+	  "aliases": ["Eccl", "Ecc"],
+	  "order": 21
 	},
 	{
-		"name": "Song of Solomon",
-		"aliases": [
-			"Song",
-			"Song of Songs"
-		]
+	  "name": "Song of Solomon",
+	  "aliases": ["Song", "Song of Songs"],
+	  "order": 22
 	},
 	{
-		"name": "Isaiah",
-		"aliases": [
-			"Isa"
-		]
+	  "name": "Isaiah",
+	  "aliases": ["Isa"],
+	  "order": 23
 	},
 	{
-		"name": "Jeremiah",
-		"aliases": [
-			"Jer"
-		]
+	  "name": "Jeremiah",
+	  "aliases": ["Jer"],
+	  "order": 24
 	},
 	{
-		"name": "Lamentations",
-		"aliases": [
-			"Lam"
-		]
+	  "name": "Lamentations",
+	  "aliases": ["Lam"],
+	  "order": 25
 	},
 	{
-		"name": "Ezekiel",
-		"aliases": [
-			"Ezek"
-		]
+	  "name": "Ezekiel",
+	  "aliases": ["Ezek"],
+	  "order": 26
 	},
 	{
-		"name": "Daniel",
-		"aliases": [
-			"Dan"
-		]
+	  "name": "Daniel",
+	  "aliases": ["Dan"],
+	  "order": 27
 	},
 	{
-		"name": "Hosea",
-		"aliases": [
-			"Hos"
-		]
+	  "name": "Hosea",
+	  "aliases": ["Hos"],
+	  "order": 28
 	},
 	{
-		"name": "Joel",
-		"aliases": []
+	  "name": "Joel",
+	  "aliases": [],
+	  "order": 29
 	},
 	{
-		"name": "Amos",
-		"aliases": []
+	  "name": "Amos",
+	  "aliases": [],
+	  "order": 30
 	},
 	{
-		"name": "Obadiah",
-		"aliases": [
-			"Obad",
-			"Oba"
-		]
+	  "name": "Obadiah",
+	  "aliases": ["Obad", "Oba"],
+	  "order": 31
 	},
 	{
-		"name": "Jonah",
-		"aliases": [
-			"Jon"
-		]
+	  "name": "Jonah",
+	  "aliases": ["Jon"],
+	  "order": 32
 	},
 	{
-		"name": "Micah",
-		"aliases": [
-			"Mic"
-		]
+	  "name": "Micah",
+	  "aliases": ["Mic"],
+	  "order": 33
 	},
 	{
-		"name": "Nahum",
-		"aliases": [
-			"Nah"
-		]
+	  "name": "Nahum",
+	  "aliases": ["Nah"],
+	  "order": 34
 	},
 	{
-		"name": "Habakkuk",
-		"aliases": [
-			"Hab"
-		]
+	  "name": "Habakkuk",
+	  "aliases": ["Hab"],
+	  "order": 35
 	},
 	{
-		"name": "Zephaniah",
-		"aliases": [
-			"Zeph"
-		]
+	  "name": "Zephaniah",
+	  "aliases": ["Zeph"],
+	  "order": 36
 	},
 	{
-		"name": "Haggai",
-		"aliases": [
-			"Hag"
-		]
+	  "name": "Haggai",
+	  "aliases": ["Hag"],
+	  "order": 37
 	},
 	{
-		"name": "Zechariah",
-		"aliases": [
-			"Zech"
-		]
+	  "name": "Zechariah",
+	  "aliases": ["Zech"],
+	  "order": 38
 	},
 	{
-		"name": "Malachi",
-		"aliases": [
-			"Mal"
-		]
+	  "name": "Malachi",
+	  "aliases": ["Mal"],
+	  "order": 39
 	},
 	{
-		"name": "Matthew",
-		"aliases": [
-			"Matt"
-		]
+	  "name": "Matthew",
+	  "aliases": ["Matt"],
+	  "order": 40
 	},
 	{
-		"name": "Mark",
-		"aliases": []
+	  "name": "Mark",
+	  "aliases": [],
+	  "order": 41
 	},
 	{
-		"name": "Luke",
-		"aliases": []
+	  "name": "Luke",
+	  "aliases": [],
+	  "order": 42
 	},
 	{
-		"name": "John",
-		"aliases": []
+	  "name": "John",
+	  "aliases": [],
+	  "order": 43
 	},
 	{
-		"name": "Acts",
-		"aliases": []
+	  "name": "Acts",
+	  "aliases": [],
+	  "order": 44
 	},
 	{
-		"name": "Romans",
-		"aliases": [
-			"Rom"
-		]
+	  "name": "Romans",
+	  "aliases": ["Rom"],
+	  "order": 45
 	},
 	{
-		"name": "1 Corinthians",
-		"aliases": [
-			"1 Cor",
-			"1st Cor",
-			"1st Corinthians",
-			"First Corinthians"
-		]
+	  "name": "1 Corinthians",
+	  "aliases": ["1 Cor", "1st Cor", "1st Corinthians", "First Corinthians"],
+	  "order": 46
 	},
 	{
-		"name": "2 Corinthians",
-		"aliases": [
-			"2 Cor",
-			"2nd Cor",
-			"2nd Corinthians",
-			"Second Corinthians"
-		]
+	  "name": "2 Corinthians",
+	  "aliases": ["2 Cor", "2nd Cor", "2nd Corinthians", "Second Corinthians"],
+	  "order": 47
 	},
 	{
-		"name": "Galatians",
-		"aliases": [
-			"Gal"
-		]
+	  "name": "Galatians",
+	  "aliases": ["Gal"],
+	  "order": 48
 	},
 	{
-		"name": "Ephesians",
-		"aliases": [
-			"Eph"
-		]
+	  "name": "Ephesians",
+	  "aliases": ["Eph"],
+	  "order": 49
 	},
 	{
-		"name": "Philippians",
-		"aliases": [
-			"Phil"
-		]
+	  "name": "Philippians",
+	  "aliases": ["Phil"],
+	  "order": 50
 	},
 	{
-		"name": "Colossians",
-		"aliases": [
-			"Col"
-		]
+	  "name": "Colossians",
+	  "aliases": ["Col"],
+	  "order": 51
 	},
 	{
-		"name": "1 Thessalonians",
-		"aliases": [
-			"1 Thess",
-			"1st Thess",
-			"1st Thessalonians",
-			"First Thessalonians"
-		]
+	  "name": "1 Thessalonians",
+	  "aliases": [
+		"1 Thess",
+		"1st Thess",
+		"1st Thessalonians",
+		"First Thessalonians"
+	  ],
+	  "order": 52
 	},
 	{
-		"name": "2 Thessalonians",
-		"aliases": [
-			"2 Thess",
-			"2nd Thess",
-			"2nd Thessalonians",
-			"Second Thessalonians"
-		]
+	  "name": "2 Thessalonians",
+	  "aliases": [
+		"2 Thess",
+		"2nd Thess",
+		"2nd Thessalonians",
+		"Second Thessalonians"
+	  ],
+	  "order": 53
 	},
 	{
-		"name": "1 Timothy",
-		"aliases": [
-			"1 Tim",
-			"1st Tim",
-			"1st Timothy",
-			"First Timothy"
-		]
+	  "name": "1 Timothy",
+	  "aliases": ["1 Tim", "1st Tim", "1st Timothy", "First Timothy"],
+	  "order": 54
 	},
 	{
-		"name": "2 Timothy",
-		"aliases": [
-			"2 Tim",
-			"2nd Tim",
-			"2nd Timothy",
-			"Second Timothy"
-		]
+	  "name": "2 Timothy",
+	  "aliases": ["2 Tim", "2nd Tim", "2nd Timothy", "Second Timothy"],
+	  "order": 55
 	},
 	{
-		"name": "Titus",
-		"aliases": []
+	  "name": "Titus",
+	  "aliases": [],
+	  "order": 56
 	},
 	{
-		"name": "Philemon",
-		"aliases": [
-			"Phlm"
-		]
+	  "name": "Philemon",
+	  "aliases": ["Phlm"],
+	  "order": 57
 	},
 	{
-		"name": "Hebrews",
-		"aliases": [
-			"Heb"
-		]
+	  "name": "Hebrews",
+	  "aliases": ["Heb"],
+	  "order": 58
 	},
 	{
-		"name": "James",
-		"aliases": [
-			"Jas"
-		]
+	  "name": "James",
+	  "aliases": ["Jas"],
+	  "order": 59
 	},
 	{
-		"name": "1 Peter",
-		"aliases": [
-			"1 Pet",
-			"1st Pet",
-			"1st Peter",
-			"First Peter"
-		]
+	  "name": "1 Peter",
+	  "aliases": ["1 Pet", "1st Pet", "1st Peter", "First Peter"],
+	  "order": 60
 	},
 	{
-		"name": "2 Peter",
-		"aliases": [
-			"2 Pet",
-			"2nd Pet",
-			"2nd Peter",
-			"Second Peter"
-		]
+	  "name": "2 Peter",
+	  "aliases": ["2 Pet", "2nd Pet", "2nd Peter", "Second Peter"],
+	  "order": 61
 	},
 	{
-		"name": "1 John",
-		"aliases": [
-			"1st John",
-			"First John"
-		]
+	  "name": "1 John",
+	  "aliases": ["1st John", "First John"],
+	  "order": 62
 	},
 	{
-		"name": "2 John",
-		"aliases": [
-			"2nd John",
-			"Second John"
-		]
+	  "name": "2 John",
+	  "aliases": ["2nd John", "Second John"],
+	  "order": 63
 	},
 	{
-		"name": "3 John",
-		"aliases": [
-			"3rd John",
-			"Third John"
-		]
+	  "name": "3 John",
+	  "aliases": ["3rd John", "Third John"],
+	  "order": 64
 	},
 	{
-		"name": "Jude",
-		"aliases": []
+	  "name": "Jude",
+	  "aliases": [],
+	  "order": 65
 	},
 	{
-		"name": "Revelation",
-		"aliases": [
-			"Rev"
-		]
+	  "name": "Revelation",
+	  "aliases": ["Rev"],
+	  "order": 66
 	}
-]
+  ]
