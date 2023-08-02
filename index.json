@@ -2,6 +2,7 @@
 	{
 		"name": "Genesis",
 		"aliases": [
+			"Gn",
 			"Gen"
 		]
 	},
@@ -16,18 +17,21 @@
 	{
 		"name": "Leviticus",
 		"aliases": [
+			"Lv",
 			"Lev"
 		]
 	},
 	{
 		"name": "Numbers",
 		"aliases": [
+			"Nu",
 			"Num"
 		]
 	},
 	{
 		"name": "Deuteronomy",
 		"aliases": [
+			"Dt",
 			"Deut"
 		]
 	},
@@ -50,6 +54,7 @@
 	{
 		"name": "1 Samuel",
 		"aliases": [
+			"1 Sm",
 			"1 Sam",
 			"1st Sam",
 			"1st Samuel",
@@ -59,6 +64,7 @@
 	{
 		"name": "2 Samuel",
 		"aliases": [
+			"2 Sm",
 			"2 Sam",
 			"2nd Sam",
 			"2nd Samuel",
@@ -68,6 +74,7 @@
 	{
 		"name": "1 Kings",
 		"aliases": [
+			"1 Ki",
 			"1 Kgs",
 			"1st Kgs",
 			"1st Kings",
@@ -77,6 +84,7 @@
 	{
 		"name": "2 Kings",
 		"aliases": [
+			"2 Ki",
 			"2 Kgs",
 			"2nd Kgs",
 			"2nd Kings",
@@ -86,6 +94,7 @@
 	{
 		"name": "1 Chronicles",
 		"aliases": [
+			"1 Ch",
 			"1 Chr",
 			"1st Chr",
 			"1st Chronicles",
@@ -95,6 +104,7 @@
 	{
 		"name": "2 Chronicles",
 		"aliases": [
+			"2 Ch",
 			"2 Chr",
 			"2nd Chr",
 			"2nd Chronicles",
@@ -104,12 +114,13 @@
 	{
 		"name": "Ezra",
 		"aliases": [
-			"Ezra"
+			"Ezr"
 		]
 	},
 	{
 		"name": "Nehemiah",
 		"aliases": [
+			"Ne",
 			"Neh"
 		]
 	},
@@ -128,12 +139,14 @@
 		"name": "Psalms",
 		"aliases": [
 			"Ps",
+			"Pss",
 			"Psalm"
 		]
 	},
 	{
 		"name": "Proverbs",
 		"aliases": [
+			"Pr",
 			"Prov",
 			"Pro"
 		]
@@ -141,6 +154,7 @@
 	{
 		"name": "Ecclesiastes",
 		"aliases": [
+			"Ec",
 			"Eccl",
 			"Ecc"
 		]
@@ -155,6 +169,7 @@
 	{
 		"name": "Isaiah",
 		"aliases": [
+			"Is",
 			"Isa"
 		]
 	},
@@ -173,33 +188,41 @@
 	{
 		"name": "Ezekiel",
 		"aliases": [
+			"Ezk",
 			"Ezek"
 		]
 	},
 	{
 		"name": "Daniel",
 		"aliases": [
+			"Dn",
 			"Dan"
 		]
 	},
 	{
 		"name": "Hosea",
 		"aliases": [
+			"Ho",
 			"Hos"
 		]
 	},
 	{
 		"name": "Joel",
-		"aliases": []
+		"aliases": [
+			"Jl"
+		]
 	},
 	{
 		"name": "Amos",
-		"aliases": []
+		"aliases": [
+			"Am"
+		]
 	},
 	{
 		"name": "Obadiah",
 		"aliases": [
 			"Obad",
+			"Ob",
 			"Oba"
 		]
 	},
@@ -212,6 +235,8 @@
 	{
 		"name": "Micah",
 		"aliases": [
+			"Mc",
+			"Mi",
 			"Mic"
 		]
 	},
@@ -230,18 +255,21 @@
 	{
 		"name": "Zephaniah",
 		"aliases": [
+			"Zp",
 			"Zeph"
 		]
 	},
 	{
 		"name": "Haggai",
 		"aliases": [
+			"Hg",
 			"Hag"
 		]
 	},
 	{
 		"name": "Zechariah",
 		"aliases": [
+			"Zc",
 			"Zech"
 		]
 	},
@@ -254,28 +282,39 @@
 	{
 		"name": "Matthew",
 		"aliases": [
+			"Mt",
 			"Matt"
 		]
 	},
 	{
 		"name": "Mark",
-		"aliases": []
+		"aliases": [
+			"Mk"
+		]
 	},
 	{
 		"name": "Luke",
-		"aliases": []
+		"aliases": [
+			"Lk"
+		]
 	},
 	{
 		"name": "John",
-		"aliases": []
+		"aliases": [
+			"Jn"
+		]
 	},
 	{
 		"name": "Acts",
-		"aliases": []
+		"aliases": [
+			"Ac"
+		]
 	},
 	{
 		"name": "Romans",
 		"aliases": [
+			"Ro",
+			"Rm",
 			"Rom"
 		]
 	},
@@ -312,6 +351,7 @@
 	{
 		"name": "Philippians",
 		"aliases": [
+			"Ph",
 			"Phil"
 		]
 	},
@@ -324,6 +364,7 @@
 	{
 		"name": "1 Thessalonians",
 		"aliases": [
+			"1 Th",
 			"1 Thess",
 			"1st Thess",
 			"1st Thessalonians",
@@ -333,6 +374,7 @@
 	{
 		"name": "2 Thessalonians",
 		"aliases": [
+			"2 Th",
 			"2 Thess",
 			"2nd Thess",
 			"2nd Thessalonians",
@@ -359,7 +401,9 @@
 	},
 	{
 		"name": "Titus",
-		"aliases": []
+		"aliases": [
+			"Tit"
+		]
 	},
 	{
 		"name": "Philemon",
@@ -376,12 +420,14 @@
 	{
 		"name": "James",
 		"aliases": [
+			"Ja",
 			"Jas"
 		]
 	},
 	{
 		"name": "1 Peter",
 		"aliases": [
+			"1 Pt",
 			"1 Pet",
 			"1st Pet",
 			"1st Peter",
@@ -391,6 +437,7 @@
 	{
 		"name": "2 Peter",
 		"aliases": [
+			"2 Pt",
 			"2 Pet",
 			"2nd Pet",
 			"2nd Peter",
@@ -400,6 +447,7 @@
 	{
 		"name": "1 John",
 		"aliases": [
+			"1 Jn",
 			"1st John",
 			"First John"
 		]
@@ -407,6 +455,7 @@
 	{
 		"name": "2 John",
 		"aliases": [
+			"2 Jn",
 			"2nd John",
 			"Second John"
 		]
@@ -414,6 +463,7 @@
 	{
 		"name": "3 John",
 		"aliases": [
+			"3 Jn",
 			"3rd John",
 			"Third John"
 		]
@@ -425,6 +475,7 @@
 	{
 		"name": "Revelation",
 		"aliases": [
+			"Rv",
 			"Rev"
 		]
 	}
