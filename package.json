@@ -1,6 +1,6 @@
 {
 	"name": "books-of-the-bible",
-	"version": "1.2.0",
+	"version": "2.0.0",
 	"description": "An ordered list of the names of the books of the bible, with common abbreviations",
 	"type": "module",
 	"main": "index.js",
